@@ -1,6 +1,8 @@
 # Web Development Final Project
 This repository consists of the final project source code for CS-410 Fall 2022 at Portland State University.
 
+**GitHub Pages Deployment:** https://jac0bml.github.io/webdev-project/ 
+
 ## Running the Website
 This website was created with HTML, CSS, and JavaScript. All libraries are linked in the main `index.html` file. To run locally,
 simply run `index.html` in your browser of choice after cloning this repo. The same can be done with a web server, where all files
